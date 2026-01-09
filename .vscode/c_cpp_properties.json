@@ -1,0 +1,27 @@
+{
+    "configurations": [
+        {
+            "name": "ToyKernel",
+            "includePath": [
+                "${workspaceFolder}/src/include"
+            ],
+            "defines": [
+                "__GNUC__=11",
+                "__GNUC_MINOR__=4",
+                "__i386__=1",
+                "__asm__(x)=",
+                "asm(x)="
+            ],
+            "compilerPath": "gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "linux-gcc-x86",
+            "compilerArgs": [
+                "-m32",
+                "-ffreestanding",
+                "-nostdlib"
+            ]
+        }
+    ],
+    "version": 4
+}
