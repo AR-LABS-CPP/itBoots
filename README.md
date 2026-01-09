@@ -17,3 +17,5 @@ My curiosity keeps making me wander around these ancient low-level parts, but I 
 ![BUILD_SCRIPT](screenshots/BUILD_SCRIPT.png)
 
 ![KEYBOARD_INP](screenshots/KEYBOARD_TYPING.png)
+
+![AC2_QUOTE](screenshots/AC2_QUOTE.png)
